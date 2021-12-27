@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="My Vue CLI devops 환경 만들기" />
+  <HelloWorld msg="테스트 성공!" />
 </template>
 
 <script>
