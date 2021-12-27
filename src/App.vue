@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your HONG App" />
+  <HelloWorld msg="My Vue CLI devops 환경 만들기" />
 </template>
 
 <script>
